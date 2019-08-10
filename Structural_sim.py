@@ -1,12 +1,5 @@
+#Author : Ekta Bhojwani
 
-import os
-import sys
-import matplotlib.pyplot as plt
-import numpy as np
-import skimage.io as io
-from PIL import Image
-from skimage import data
-from skimage.color import rgb2gray
 from matplotlib.image import imread
 from PIL import Image
 import cv2
